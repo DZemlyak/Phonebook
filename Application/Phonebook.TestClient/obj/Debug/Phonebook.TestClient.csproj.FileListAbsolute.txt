@@ -1,0 +1,14 @@
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.TestClient.exe.config
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.TestClient.exe
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.TestClient.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\EntityFramework.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.Data.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.Model.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.Data.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\Phonebook.Model.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\EntityFramework.xml
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\obj\Debug\Phonebook.TestClient.csprojResolveAssemblyReference.cache
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\obj\Debug\Phonebook.TestClient.exe
+E:\Учеба\Work\Phonebook\Application\Phonebook.TestClient\obj\Debug\Phonebook.TestClient.pdb

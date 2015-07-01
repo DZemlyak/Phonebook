@@ -1,0 +1,12 @@
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Data.dll.config
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Data.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Data.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\EntityFramework.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Model.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Model.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\EntityFramework.xml
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.csprojResolveAssemblyReference.cache
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.pdb
