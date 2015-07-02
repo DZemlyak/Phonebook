@@ -1,0 +1,13 @@
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.BusinesLayer.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.BusinesLayer.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Contracts.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Data.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Model.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\EntityFramework.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Contracts.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Data.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\Phonebook.Model.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\bin\Debug\EntityFramework.xml
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\obj\Debug\Phonebook.BusinesLayer.csprojResolveAssemblyReference.cache
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\obj\Debug\Phonebook.BusinesLayer.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.BusinesLayer\obj\Debug\Phonebook.BusinesLayer.pdb

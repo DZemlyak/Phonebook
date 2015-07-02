@@ -10,3 +10,5 @@ E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\EntityFramewor
 E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.csprojResolveAssemblyReference.cache
 E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.dll
 E:\Учеба\Work\Phonebook\Application\Phonebook.Data\obj\Debug\Phonebook.Data.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Contracts.dll
+E:\Учеба\Work\Phonebook\Application\Phonebook.Data\bin\Debug\Phonebook.Contracts.pdb

@@ -40,12 +40,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
-    <Compile Include="IDbEntity.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="PersonDetails.cs" />
     <Compile Include="Phone.cs" />
     <Compile Include="PhoneType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Phonebook.Contracts\Phonebook.Contracts.csproj">
+      <Project>{a22d596e-f435-46a1-bb7e-82e9226507d0}</Project>
+      <Name>Phonebook.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

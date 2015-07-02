@@ -1,6 +1,7 @@
 ﻿using System;
-using System.Linq;
-using Phonebook.Data;
+using Castle.Windsor;
+using Phonebook.CastleWindsor;
+using Phonebook.Contracts;
 using Phonebook.Model;
 
 namespace Phonebook.TestClient
@@ -9,9 +10,12 @@ namespace Phonebook.TestClient
     {
         static void Main(string[] args)
         {
-            using (var db = new DataContext())
+            var container = new WindsorContainer().Install(new MainInstaller());
+
+            var dc = container.Resolve<IManager<Person>>();
+            foreach (var person in dc.GetAll())
             {
-                Console.WriteLine(db.Persons.Count());
+                Console.WriteLine(person);
             }
         }
     }

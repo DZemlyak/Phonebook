@@ -1,3 +1,3 @@
-﻿namespace Phonebook.Model {
+﻿namespace Phonebook.Contracts {
     public interface IDbEntity { }
 }

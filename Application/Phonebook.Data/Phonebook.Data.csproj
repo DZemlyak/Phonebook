@@ -52,12 +52,17 @@
     <Compile Include="Mappings\PhoneMap.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Phonebook.Contracts\Phonebook.Contracts.csproj">
+      <Project>{a22d596e-f435-46a1-bb7e-82e9226507d0}</Project>
+      <Name>Phonebook.Contracts</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Phonebook.Model\Phonebook.Model.csproj">
       <Project>{caeaf49f-4f82-4fc8-82ec-b0cbedc3aeaa}</Project>
       <Name>Phonebook.Model</Name>

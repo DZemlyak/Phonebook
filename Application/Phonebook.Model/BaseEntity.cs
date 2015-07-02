@@ -1,4 +1,6 @@
-﻿namespace Phonebook.Model
+﻿using Phonebook.Contracts;
+
+namespace Phonebook.Model
 {
     public class BaseEntity : IDbEntity
     {
