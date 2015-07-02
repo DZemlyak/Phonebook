@@ -1,6 +1,6 @@
 ﻿namespace Phonebook.Model
 {
-    public class PersonDetails : BaseEntity
+    public class PersonDetails : IDbEntity
     {
         public long PersonId { get; set; }
         public string Address { get; set; }

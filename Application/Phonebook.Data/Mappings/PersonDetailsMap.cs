@@ -6,12 +6,12 @@ namespace Phonebook.Data.Mappings
 {
     public class PersonDetailsMap : EntityTypeConfiguration<PersonDetails> {
         public PersonDetailsMap() {
-            HasKey(s => s.Id);
-            Property(s => s.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            Property(s => s.PersonId).IsRequired();
+            HasKey(s => s.PersonId);
             Property(s => s.Address).IsRequired();
             Property(s => s.Description).IsRequired();
             ToTable("PersonDetails");
+
+            HasRequired(s => s.Person).WithOptional(s => s.PersonDetails).WillCascadeOnDelete(false);
         }
     }
 }

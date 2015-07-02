@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using Phonebook.Data;
 using Phonebook.Model;
 
@@ -10,13 +11,7 @@ namespace Phonebook.TestClient
         {
             using (var db = new DataContext())
             {
-                db.Persons.Add(new Person { FirstName = "Dmitriy", LastName = "Zemlyak"});
-                db.SaveChanges();
-
-                foreach (var person in db.Persons)
-                {
-                    Console.WriteLine(person.FirstName);
-                }
+                Console.WriteLine(db.Persons.Count());
             }
         }
     }

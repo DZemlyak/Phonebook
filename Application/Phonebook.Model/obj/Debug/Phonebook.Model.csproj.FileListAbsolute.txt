@@ -2,3 +2,4 @@ E:\Учеба\Work\Phonebook\Application\Phonebook.Model\bin\Debug\Phonebook.Mod
 E:\Учеба\Work\Phonebook\Application\Phonebook.Model\bin\Debug\Phonebook.Model.pdb
 E:\Учеба\Work\Phonebook\Application\Phonebook.Model\obj\Debug\Phonebook.Model.dll
 E:\Учеба\Work\Phonebook\Application\Phonebook.Model\obj\Debug\Phonebook.Model.pdb
+E:\Учеба\Work\Phonebook\Application\Phonebook.Model\obj\Debug\Phonebook.Model.csprojResolveAssemblyReference.cache

@@ -11,9 +11,6 @@ namespace Phonebook.Data.Mappings
             Property(s => s.FirstName).IsRequired();
             Property(s => s.LastName).IsRequired();
             ToTable("Person");
-
-            HasRequired(s => s.PersonDetails).WithRequiredPrincipal(s => s.Person).WillCascadeOnDelete(false);
-            //HasMany(s => s.Phones).WithRequired(s => s.Person).HasForeignKey(s => s.PersonId).WillCascadeOnDelete(true);
         }
     }
 }
