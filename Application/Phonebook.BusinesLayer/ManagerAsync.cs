@@ -19,8 +19,6 @@ namespace Phonebook.BusinesLayer
             await Task.Run(() => {
                 if (!_validator.IsValid(entity))
                     throw new ArgumentException("Entity is not valid.");
-                if (_validator.IsExists(entity))
-                    throw new ArgumentException("Entity is already exists.");
                 _repository.Add(entity);
                 _repository.SaveChanges();
             });
@@ -28,6 +26,8 @@ namespace Phonebook.BusinesLayer
 
         public async Task UpdateAsync(T entity) {
             await Task.Run(() => {
+                if (!_validator.IsValid(entity))
+                    throw new ArgumentException("Entity is not valid.");
                 if (!_validator.IsExists(entity))
                     throw new ArgumentException("Entity does not exist.");
                 _repository.SaveChanges();

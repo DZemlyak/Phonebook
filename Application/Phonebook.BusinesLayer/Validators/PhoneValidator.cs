@@ -16,7 +16,7 @@ namespace Phonebook.BusinesLayer.Validators
 
         public bool IsValid(Phone entity) {
             return _validator.IsExists(entity.PersonId) &&
-                   Regex.IsMatch(entity.Number, @"^\+{0,1}\d{1,3}[ -]\d{3}[ -]\d{2}[ -]\d{2}$");
+                   Regex.IsMatch(entity.Number, @"\+{0,1}\d{1,3}[ -]\d{1,3}[ -]\d{3}[ -]\d{2}[ -]\d{2}");
         }
 
         public bool IsExists(Phone entity) {
