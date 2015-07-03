@@ -1,5 +1,4 @@
 E:\Учеба\Work\Phonebook\Application\Phonebook.Contracts\bin\Debug\Phonebook.Contracts.dll
 E:\Учеба\Work\Phonebook\Application\Phonebook.Contracts\bin\Debug\Phonebook.Contracts.pdb
-E:\Учеба\Work\Phonebook\Application\Phonebook.Contracts\obj\Debug\Phonebook.Contracts.csprojResolveAssemblyReference.cache
 E:\Учеба\Work\Phonebook\Application\Phonebook.Contracts\obj\Debug\Phonebook.Contracts.dll
 E:\Учеба\Work\Phonebook\Application\Phonebook.Contracts\obj\Debug\Phonebook.Contracts.pdb

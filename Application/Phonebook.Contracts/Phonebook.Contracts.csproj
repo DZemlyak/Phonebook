@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="IDbEntity.cs" />
     <Compile Include="IManager.cs" />
+    <Compile Include="IManagerAsync.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="IValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

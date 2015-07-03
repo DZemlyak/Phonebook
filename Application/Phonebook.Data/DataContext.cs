@@ -21,7 +21,7 @@ namespace Phonebook.Data
             modelBuilder.Configurations.Add(new PhoneMap());
         }
 
-        private class PhonebookInitializer : DropCreateDatabaseAlways<DataContext>
+        private class PhonebookInitializer : CreateDatabaseIfNotExists<DataContext>
         {
             protected override void Seed(DataContext context)
             {

@@ -2,13 +2,11 @@
 using Castle.MicroKernel.Registration;
 using Castle.MicroKernel.SubSystems.Configuration;
 using Castle.Windsor;
-using Microsoft.Practices.ServiceLocation;
 using Phonebook.BusinesLayer;
 using Phonebook.BusinesLayer.Validators;
 using Phonebook.Contracts;
 using Phonebook.Data;
 using Phonebook.Model;
-
 
 namespace Phonebook.CastleWindsor
 {
@@ -21,6 +19,8 @@ namespace Phonebook.CastleWindsor
                 .ImplementedBy(typeof(Repository<>)));
             container.Register(Component.For(typeof(IManager<>))
                 .ImplementedBy(typeof(Manager<>)));
+            container.Register(Component.For(typeof(IManagerAsync<>))
+                .ImplementedBy(typeof(ManagerAsync<>)));
             container.Register(Component.For(typeof(IValidator<Person>))
                     .ImplementedBy(typeof(PersonValidator))
                     .LifestylePerThread());
