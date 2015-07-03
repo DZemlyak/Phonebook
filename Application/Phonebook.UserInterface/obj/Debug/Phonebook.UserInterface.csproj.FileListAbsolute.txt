@@ -21,8 +21,8 @@ E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\bin\Debug\Castl
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\bin\Debug\EntityFramework.xml
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\bin\Debug\EntityFramework.SqlServer.xml
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.csprojResolveAssemblyReference.cache
+E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.MainForm.resources
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.Properties.Resources.resources
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.csproj.GenerateResource.Cache
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.exe
 E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.pdb
-E:\Учеба\Work\Phonebook\Application\Phonebook.UserInterface\obj\Debug\Phonebook.UserInterface.MainForm.resources
